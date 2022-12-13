@@ -1,7 +1,6 @@
-# coursera_capstone
+# IBM Data Science Capstone Project - SpaceX
 
-## editing the file.
+## Winning Space Race with Data Science
+Coursera/IBM Applied Data Science Capstone.
 
-Its a markdown file in this repository.
 
-Coursera/IBM Applied Data Science Capstone
